@@ -1,5 +1,5 @@
 // Шаг 1: Получаем все элементы <p> на странице
-const paragraphs = document.getElementsByTagName("span");
+const paragraphs = document.getElementsByTagName("text");
 
 // Шаг 2: Создаем объект для хранения текстовых фрагментов
 const textFragments = {};
